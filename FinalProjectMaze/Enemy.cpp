@@ -65,7 +65,7 @@ void Enemy::RestorePath(Cell* pc)
 
 
 
-	if ((*maze)[x][y].getIdentity() == PACMAN )
+	if ((*maze)[x][y].getIdentity() == PACMAN || (x == target->getX() && y == target->getY()))
 	{
 		cout << "Pacman has been eaten, GAME OVER!\n";
 		exit(0);
