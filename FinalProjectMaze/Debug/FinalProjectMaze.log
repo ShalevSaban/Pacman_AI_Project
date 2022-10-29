@@ -1,0 +1,15 @@
+﻿  Cell.cpp
+  CollectingState.cpp
+  Enemy.cpp
+  EscapeState.cpp
+  Pacman.cpp
+  Player.cpp
+  State.cpp
+  huntState.cpp
+  main.cpp
+C:\Users\shale\OneDrive\מסמכים\לימודים\AI\backup2\FinalProjectMaze\FinalProjectMaze\main.cpp(199,12): warning C4101: 'k': unreferenced local variable
+C:\Users\shale\OneDrive\מסמכים\לימודים\AI\backup2\FinalProjectMaze\FinalProjectMaze\main.cpp(281,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\shale\OneDrive\מסמכים\לימודים\AI\backup2\FinalProjectMaze\FinalProjectMaze\main.cpp(369,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+C:\Users\shale\OneDrive\מסמכים\לימודים\AI\backup2\FinalProjectMaze\FinalProjectMaze\Pacman.cpp(137): warning C4715: 'Pacman::getClosetEnemy': not all control paths return a value
+  FinalProjectMaze.vcxproj -> C:\Users\shale\OneDrive\מסמכים\לימודים\AI\backup2\FinalProjectMaze\Debug\FinalProjectMaze.exe
