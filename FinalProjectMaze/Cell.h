@@ -6,7 +6,7 @@
 class Cell
 {
 public:
-	// Constructors
+	/// Constructors
 	Cell();
 	Cell(Point& point, Point* target, int v, double g, Cell* parent);
 	Cell(int r, int c, int tr, int tc, double h, double g, Cell* p);
