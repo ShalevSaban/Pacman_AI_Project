@@ -16,14 +16,14 @@ Final project in AI course.
 ## Maze Implementation
 - The surface is built of a 100x100 matrix .<br/>
 - The rooms and passages are given the identity SPACE, the rest -WALL.<br/> 
-- Transitions between rooms are constructed using the ** A* algorithm **.<br/>
+- Transitions between rooms are constructed using the **A* algorithm**.<br/>
  Access must be provided from each room to another, but there is no need to build all of them.<br/>
  Therefore, existing passageways between rooms are given priority over building new ones.<br/>
  
  ## Pacman Moving Implementation
  - Pacman has 2 states - collecting and escape.<br/>
  - Pacman checks every time if there are any enemies nearby.<br/>
- - BFS algorithm is used for scanning (checking for enemies).<br/>
+ - **BFS algorithm** is used for scanning (checking for enemies).<br/>
  - During Pacman's collection of coins, the A* algorithm is used (every coin exists in the priority queue).<br/>
  - When the distance from the enemy is low, Pacman changes his state to an escape state.<br/>
  
