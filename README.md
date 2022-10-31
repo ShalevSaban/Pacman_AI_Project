@@ -22,10 +22,10 @@ Final project in AI course.
  
  ## Pacman Moving Implementation
  -Pacman has 2 states - collecting and escape.<br/>
-- Pacman checks every time if there are any enemies nearby.<br/>
--BFS algorithm is used for scanning (checking for enemies).<br/>
--During Pacman's collection of coins, the A* algorithm is used (every coin exists in the priority queue).<br/>
--When the distance from the enemy is low, Pacman changes his state to an escape state.<br/>
+ -Pacman checks every time if there are any enemies nearby.<br/>
+ -BFS algorithm is used for scanning (checking for enemies).<br/>
+ -During Pacman's collection of coins, the A* algorithm is used (every coin exists in the priority queue).<br/>
+ -When the distance from the enemy is low, Pacman changes his state to an escape state.<br/>
  
  
 
