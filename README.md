@@ -30,7 +30,10 @@ Final project in AI course.
  ## Enemy Moving Implementation
   - The enemy uses A* algorithm too in order to eat the Pacman
   
+ ## Game view using Open GL 
  
+ ![image](https://user-images.githubusercontent.com/74130405/199100599-ceabb808-cc5e-45e4-8ae7-c5eabfff1abd.png)
+
  
 
 
