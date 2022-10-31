@@ -3,7 +3,7 @@
 
 Final project in AI course.
 
-##Game Description
+## Game Description
 
 -There are 3 enemies and 1 pacman .
 
@@ -12,7 +12,7 @@ Final project in AI course.
 -The maze consists of 9 rooms with the option of moving from one room to another.<br/>
 -In every game run, the rooms are built differently - in different sizes, locations  and passages.<br/>
 -The starting point of Pacman, enemies and coins is randomly chosen.<br/>
-<br/><br/>
+
 ## Implementation
 -The surface is built of a 100x100 matrix .<br/>
 -The rooms and passages are given the identity SPACE, the rest -SPACE.<br/> 
