@@ -28,6 +28,8 @@ Final project in AI course.
  - When the distance from the enemy is low, Pacman changes his state to an escape state.<br/>
  
  ## Enemy Moving Implementation
+  - The enemy uses A* algorithm too in order to eat the Pacman
+  
  
  
 
