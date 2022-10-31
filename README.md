@@ -16,7 +16,7 @@ Final project in AI course.
 ## Maze Implementation
 - The surface is built of a 100x100 matrix .<br/>
 - The rooms and passages are given the identity SPACE, the rest -WALL.<br/> 
-- Transitions between rooms are constructed using the **A* algorithm**.<br/>
+- Transitions between rooms are constructed using the **A star algorithm**.<br/>
  Access must be provided from each room to another, but there is no need to build all of them.<br/>
  Therefore, existing passageways between rooms are given priority over building new ones.<br/>
  
